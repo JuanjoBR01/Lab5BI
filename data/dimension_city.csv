@@ -1,0 +1,98 @@
+,City_Key,City,State_Province,Country,Continent,Sales_Territory,Region,Subregion,Latest_Recorded_Population
+1,1.0,Carrollton,New York,United States,North America,Mideast,Americas,Northern America,0
+2,2.0,Carrollton,Virginia,United States,North America,Southeast,Americas,Northern America,4574
+3,3.0,Carrollton,Illinois,United States,North America,Great Lakes,Americas,Northern America,2484
+4,4.0,Carrollton,Missouri,United States,North America,Plains,Americas,Northern America,3784
+5,5.0,Carrollton,Ohio,United States,North America,Great Lakes,Americas,Northern America,3241
+6,6.0,Carrollton,Kentucky,United States,North America,Southeast,Americas,Northern America,3938
+7,7.0,Carrollton,Georgia,United States,North America,Southeast,Americas,Northern America,24388
+8,8.0,Carrollton,Alabama,United States,North America,Southeast,Americas,Northern America,1019
+9,9.0,Carrollton,Mississippi,United States,North America,Southeast,Americas,Northern America,190
+10,10.0,Carrollton,Texas,United States,North America,Southwest,Americas,Northern America,119097
+11,11.0,Carrollton Manor,Maryland,United States,North America,Mideast,Americas,Northern America,0
+12,12.0,Carrolltown,Pennsylvania,United States,North America,Mideast,Americas,Northern America,853
+13,13.0,Carrothers,Ohio,United States,North America,Great Lakes,Americas,Northern America,0
+14,14.0,Carrsville,Virginia,United States,North America,Southeast,Americas,Northern America,359
+15,15.0,Carrsville,Kentucky,United States,North America,Southeast,Americas,Northern America,50
+16,16.0,Carsins,Maryland,United States,North America,Mideast,Americas,Northern America,0
+17,17.0,Carson,New Mexico,United States,North America,Southwest,Americas,Northern America,0
+18,18.0,Carson,California,United States,North America,Far West,Americas,Northern America,91714
+19,19.0,Carson,Washington,United States,North America,Far West,Americas,Northern America,2279
+20,20.0,Carson,North Dakota,United States,North America,Plains,Americas,Northern America,293
+21,21.0,Carson,Iowa,United States,North America,Plains,Americas,Northern America,812
+22,22.0,Carson City,Nevada,United States,North America,Far West,Americas,Northern America,55274
+23,23.0,Carson City,Michigan,United States,North America,Great Lakes,Americas,Northern America,1093
+24,24.0,Carsonville,Michigan,United States,North America,Great Lakes,Americas,Northern America,527
+25,25.0,Carsonville,Georgia,United States,North America,Southeast,Americas,Northern America,0
+26,26.0,Carta Valley,Texas,United States,North America,Southwest,Americas,Northern America,0
+27,27.0,Cartago,California,United States,North America,Far West,Americas,Northern America,92
+28,28.0,Carter,Wyoming,United States,North America,Rocky Mountain,Americas,Northern America,10
+29,29.0,Carter,Montana,United States,North America,Rocky Mountain,Americas,Northern America,58
+30,30.0,Carter,Tennessee,United States,North America,Southeast,Americas,Northern America,0
+31,31.0,Carter,Wisconsin,United States,North America,Great Lakes,Americas,Northern America,0
+32,32.0,Carter,Mississippi,United States,North America,Southeast,Americas,Northern America,0
+33,33.0,Carter,South Dakota,United States,North America,Plains,Americas,Northern America,0
+34,34.0,Carter,Kentucky,United States,North America,Southeast,Americas,Northern America,0
+35,35.0,El Cenizo,Texas,United States,North America,Southwest,Americas,Northern America,3273
+36,36.0,El Centro,California,United States,North America,Far West,Americas,Northern America,42598
+37,37.0,El Cerrito,California,United States,North America,Far West,Americas,Northern America,23549
+38,38.0,El Cerro,New Mexico,United States,North America,Southwest,Americas,Northern America,2953
+39,39.0,El Combate,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,423
+40,40.0,El Dara,Illinois,United States,North America,Great Lakes,Americas,Northern America,78
+41,41.0,El Dorado,Arkansas,United States,North America,Southeast,Americas,Northern America,18884
+42,42.0,El Dorado,Kansas,United States,North America,Plains,Americas,Northern America,13021
+43,43.0,El Dorado Hills,California,United States,North America,Far West,Americas,Northern America,42108
+44,44.0,El Dorado Springs,Missouri,United States,North America,Plains,Americas,Northern America,3593
+45,45.0,El Duende,New Mexico,United States,North America,Southwest,Americas,Northern America,707
+46,46.0,El Granada,California,United States,North America,Far West,Americas,Northern America,5467
+47,47.0,El Indio,Texas,United States,North America,Southwest,Americas,Northern America,190
+48,48.0,El Jebel,Colorado,United States,North America,Rocky Mountain,Americas,Northern America,3801
+49,49.0,El Lago,Texas,United States,North America,Southwest,Americas,Northern America,2706
+50,50.0,El Mang�,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,1482
+51,51.0,El Mirage,Arizona,United States,North America,Southwest,Americas,Northern America,31797
+52,52.0,El Monte,California,United States,North America,Far West,Americas,Northern America,113475
+53,53.0,El Moro,Colorado,United States,North America,Rocky Mountain,Americas,Northern America,221
+54,54.0,El Negro,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,1075
+55,55.0,El Nido,California,United States,North America,Far West,Americas,Northern America,330
+56,56.0,El Ojo,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,1478
+57,57.0,El Paraiso,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,1716
+58,58.0,El Paso,Texas,United States,North America,Southwest,Americas,Northern America,649121
+59,59.0,El Paso,Wisconsin,United States,North America,Great Lakes,Americas,Northern America,0
+60,60.0,El Paso,Illinois,United States,North America,Great Lakes,Americas,Northern America,2810
+61,61.0,El Paso,Arkansas,United States,North America,Southeast,Americas,Northern America,0
+62,62.0,El Paso de Robles,California,United States,North America,Far West,Americas,Northern America,29793
+63,63.0,El Portal,California,United States,North America,Far West,Americas,Northern America,474
+64,64.0,El Portal,Florida,United States,North America,Southeast,Americas,Northern America,2325
+65,65.0,El Porvenir,New Mexico,United States,North America,Southwest,Americas,Northern America,0
+66,66.0,El Prado,New Mexico,United States,North America,Southwest,Americas,Northern America,0
+67,67.0,El Rancho,Colorado,United States,North America,Rocky Mountain,Americas,Northern America,0
+68,68.0,Austerlitz,New York,United States,North America,Mideast,Americas,Northern America,0
+69,69.0,Brown Deer,Wisconsin,United States,North America,Great Lakes,Americas,Northern America,11999
+70,70.0,Crofton,Maryland,United States,North America,Mideast,Americas,Northern America,27348
+71,71.0,Carter,Oklahoma,United States,North America,Southwest,Americas,Northern America,256
+72,72.0,El Rancho,New Mexico,United States,North America,Southwest,Americas,Northern America,1199
+73,73.0,El Refugio,Texas,United States,North America,Southwest,Americas,Northern America,331
+74,74.0,El Reno,Oklahoma,United States,North America,Southwest,Americas,Northern America,16749
+75,75.0,El Rio,California,United States,North America,Far West,Americas,Northern America,7198
+76,76.0,El Rito,New Mexico,United States,North America,Southwest,Americas,Northern America,808
+77,77.0,El Sauz,Texas,United States,North America,Southwest,Americas,Northern America,0
+78,78.0,El Segundo,California,United States,North America,Far West,Americas,Northern America,16654
+79,79.0,El Sobrante,California,United States,North America,Far West,Americas,Northern America,12669
+80,80.0,El Toro,Texas,United States,North America,Southwest,Americas,Northern America,0
+81,81.0,El Toro,California,United States,North America,Far West,Americas,Northern America,0
+82,82.0,El Tumbao,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,2511
+83,83.0,El Vado,New Mexico,United States,North America,Southwest,Americas,Northern America,0
+84,84.0,El Verano,California,United States,North America,Far West,Americas,Northern America,4123
+85,85.0,Elaine,Arkansas,United States,North America,Southeast,Americas,Northern America,636
+86,86.0,Eland,Wisconsin,United States,North America,Great Lakes,Americas,Northern America,202
+87,87.0,Elba,New York,United States,North America,Mideast,Americas,Northern America,676
+88,88.0,Elba,Minnesota,United States,North America,Plains,Americas,Northern America,152
+89,89.0,Elba,Alabama,United States,North America,Southeast,Americas,Northern America,3940
+90,90.0,Elba,Nebraska,United States,North America,Plains,Americas,Northern America,215
+91,91.0,Austin,Kentucky,United States,North America,Southeast,Americas,Northern America,0
+92,92.0,Austin,Montana,United States,North America,Rocky Mountain,Americas,Northern America,0
+93,93.0,Austin,Texas,United States,North America,Southwest,Americas,Northern America,790390
+94,94.0,Austin,Nevada,United States,North America,Far West,Americas,Northern America,192
+95,95.0,Austin,Arkansas,United States,North America,Southeast,Americas,Northern America,2038
+96,96.0,Austin,Indiana,United States,North America,Great Lakes,Americas,Northern America,4295
+97,97.0,Austin,Pennsylvania,United States,North America,Mideast,Americas,Northern America,562
